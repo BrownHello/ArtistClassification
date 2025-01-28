@@ -1,0 +1,5 @@
+# Store your api keys with following variable
+
+APIKEYS = {
+    "name_example": "YOURAPIKEYS"
+    }
