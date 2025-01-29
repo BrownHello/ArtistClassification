@@ -1,5 +1,8 @@
-# Store your api keys with following variable
+# Store your api keys with key-value way: 'Endpoint' : 'YOUR_API_KEY'
+# Notice: All functions corresponding to 'Endpoint' are found in './doc/api.md'
+
+USERNAME = 'YOUR_USER_NAME'
 
 APIKEYS = {
-    "name_example": "YOURAPIKEYS"
+    "Controller#Action": "YOUR_API_KEYS"
     }
